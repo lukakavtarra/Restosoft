@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.fb731e32.css",
-    "main.js": "./static/js/main.1384c333.js",
-    "static/media/FrontOfficeScreen.png": "./static/media/FrontOfficeScreen.153d0c5de0831bf885d9.png",
-    "static/media/me.png": "./static/media/me.43813ea094d394ccad38.png",
-    "static/media/syrve logo.jpg": "./static/media/syrve logo.4b2b6eab5075b075414f.jpg",
-    "static/media/BackOfficeScreen.png": "./static/media/BackOfficeScreen.37092d9cc0074564109f.png",
-    "static/media/restosoftLogo.png": "./static/media/restosoftLogo.ff574c5715035b0f05d1.png",
-    "static/media/bpg_nino_mtavruli_bold.ttf": "./static/media/bpg_nino_mtavruli_bold.43eacc71b8fa4cfe138c.ttf",
-    "static/media/cv.pdf": "./static/media/cv.75732efaf91b96ab234a.pdf",
-    "static/media/WarehouseScreen.png": "./static/media/WarehouseScreen.c707f23d8f5bd2dc3b3c.png",
-    "index.html": "./index.html",
-    "main.fb731e32.css.map": "./static/css/main.fb731e32.css.map",
-    "main.1384c333.js.map": "./static/js/main.1384c333.js.map"
+    "main.css": "/Restosoft/static/css/main.f646b295.css",
+    "main.js": "/Restosoft/static/js/main.d3df9da1.js",
+    "static/media/FrontOfficeScreen.png": "/Restosoft/static/media/FrontOfficeScreen.153d0c5de0831bf885d9.png",
+    "static/media/me.png": "/Restosoft/static/media/me.43813ea094d394ccad38.png",
+    "static/media/syrve logo.jpg": "/Restosoft/static/media/syrve logo.4b2b6eab5075b075414f.jpg",
+    "static/media/BackOfficeScreen.png": "/Restosoft/static/media/BackOfficeScreen.37092d9cc0074564109f.png",
+    "static/media/restosoftLogo.png": "/Restosoft/static/media/restosoftLogo.ff574c5715035b0f05d1.png",
+    "static/media/bpg_nino_mtavruli_bold.ttf": "/Restosoft/static/media/bpg_nino_mtavruli_bold.43eacc71b8fa4cfe138c.ttf",
+    "static/media/cv.pdf": "/Restosoft/static/media/cv.75732efaf91b96ab234a.pdf",
+    "static/media/WarehouseScreen.png": "/Restosoft/static/media/WarehouseScreen.c707f23d8f5bd2dc3b3c.png",
+    "index.html": "/Restosoft/index.html",
+    "main.f646b295.css.map": "/Restosoft/static/css/main.f646b295.css.map",
+    "main.d3df9da1.js.map": "/Restosoft/static/js/main.d3df9da1.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb731e32.css",
-    "static/js/main.1384c333.js"
+    "static/css/main.f646b295.css",
+    "static/js/main.d3df9da1.js"
   ]
 }
