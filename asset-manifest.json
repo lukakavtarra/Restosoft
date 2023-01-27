@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/restosoft/static/css/main.091533c9.css",
+    "main.js": "/restosoft/static/js/main.4e33610f.js",
+    "static/media/FrontOfficeScreen.png": "/restosoft/static/media/FrontOfficeScreen.153d0c5de0831bf885d9.png",
+    "static/media/me.png": "/restosoft/static/media/me.43813ea094d394ccad38.png",
+    "static/media/syrve logo.jpg": "/restosoft/static/media/syrve logo.4b2b6eab5075b075414f.jpg",
+    "static/media/BackOfficeScreen.png": "/restosoft/static/media/BackOfficeScreen.37092d9cc0074564109f.png",
+    "static/media/restosoftLogo.png": "/restosoft/static/media/restosoftLogo.ff574c5715035b0f05d1.png",
+    "static/media/bpg_nino_mtavruli_bold.ttf": "/restosoft/static/media/bpg_nino_mtavruli_bold.43eacc71b8fa4cfe138c.ttf",
+    "static/media/cv.pdf": "/restosoft/static/media/cv.75732efaf91b96ab234a.pdf",
+    "static/media/WarehouseScreen.png": "/restosoft/static/media/WarehouseScreen.c707f23d8f5bd2dc3b3c.png",
+    "index.html": "/restosoft/index.html",
+    "main.091533c9.css.map": "/restosoft/static/css/main.091533c9.css.map",
+    "main.4e33610f.js.map": "/restosoft/static/js/main.4e33610f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.091533c9.css",
+    "static/js/main.4e33610f.js"
+  ]
+}
