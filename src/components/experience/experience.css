@@ -1,0 +1,132 @@
+.experience__container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 2rem;
+    padding: 1rem 0rem 8rem;
+}
+section#experience {
+    padding:2rem 1rem;
+    background: var(--color-bg-variant);
+
+}
+
+.experience__container > div {
+    /* background-color: var(--color-bg-variant); */
+    /* padding: 2.4rem 5rem; */
+    border-radius: 2rem;
+    border: 1px solid transparent;
+    transition: var(--transition);
+    gap: 1rem;
+    /* display: flex;
+    align-items: center; */
+}
+.flexbox {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.experience__container > div:hover {
+    background: transparent;
+    border-color: var(--color-bg-variant);
+    cursor: default;
+}
+
+.experience__container > div h3 {
+    text-align: center;
+    margin-bottom: 2rem;
+    color: var(--color-primary);
+}
+.experience__container > div img {
+    border-radius: 2rem;
+}
+.experience__content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    row-gap: 2rem;
+}
+
+.experience__details {
+    display: flex;
+    gap: 1rem;
+}
+
+.experience__details-icon {
+    margin-top: 6px;
+    color: var(--color-white);
+}
+
+
+.certificate__container {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+.certificate__container > div {
+    background-color: var(--color-bg-variant);
+    padding: 2.4rem 5rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+    transition: var(--transition);
+}
+
+.upperFlex {
+    align-items: flex-start !important;
+    
+}
+.arrowGrid {
+    display: grid;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(2, 1fr);
+    /* grid-column-gap: 103px; */
+    grid-row-gap: 0px;
+    padding: 2rem;
+}
+
+.rotateArrow1 {
+    transform: rotate(270deg);
+    grid-area: 1 / 1 / 2 / 2;
+}
+
+.rotateArrow2 {
+        margin: -2rem;
+        grid-area: 3 / 1 / 4 / 2;
+    
+}
+.certificates__header {
+    margin-top: 5rem;
+}
+
+/* ============= MEDIA QUERIES (FOR MEDIUM DEVICES) */
+
+@media screen and (max-width:1024px) {
+    .experience__container {
+        grid-template-columns: 1fr;
+    }
+
+    .experience__container > div {
+        width: 80%;
+        padding: 2rem;
+        margin: 0 auto;
+    }
+    .experience__content {
+        padding: 1rem;
+    }
+}
+
+/* ============= MEDIA QUERIES (FOR SMALL DEVICES) */
+
+@media screen and (max-width:600px) {
+    .experience__container {
+        gap: 1rem;
+
+    }
+
+    .experience__container > div {
+        width: 100%;
+        padding: 2rem 1rem;
+    }
+
+}
